@@ -9,7 +9,7 @@ setwd(dir)
 system("git clone git@github.com:robertzk/rnold.git")
 library(devtools)
 setwd("rnold")
-load_all("rnold")
+load_all()
 `I'M A COP YOU IDIOT!`()
 # Testing rnold
 # rnold : .
