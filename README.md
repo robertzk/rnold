@@ -10,7 +10,7 @@ system("git clone git@github.com:robertzk/rnold.git")
 library(devtools)
 setwd("rnold")
 load_all()
-`I'M A COP YOU IDIOT!`()
+`I'M A COP YOU IDIOT`()
 # Testing rnold
 # rnold : .
 # 
