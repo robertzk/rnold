@@ -1,7 +1,5 @@
-R Package Template [![Build Status](https://travis-ci.org/robertzk/r-package-template.svg?branch=master)](https://travis-ci.org/robertzk/r-package-template) [![Coverage Status](https://coveralls.io/repos/robertzk/r-package-template/badge.svg?branch=master)](https://coveralls.io/r/robertzk/r-package-template)
+Rnold - IT'S SHOWTIME [![Build Status](https://travis-ci.org/robertzk/rnold.svg?branch=master)](https://travis-ci.org/robertzk/rnold) [![Coverage Status](https://coveralls.io/repos/robertzk/rnold/badge.svg?branch=master)](https://coveralls.io/r/robertzk/rnold)
 ===========
 
-This repository offers a basic template for R packages that already includes
-Travis and [covr](http://github.com/jimhester/covr) integration.
-
+COME WITH ME IF YOU WANT TO LIVE.
 
